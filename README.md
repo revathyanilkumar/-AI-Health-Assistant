@@ -2,11 +2,12 @@
 An intelligent AI-powered health assistant built usingTinyLlama Instruct and Streamlit. This application allows users to ask health-related questions and receive clear, informative, and educational responses.
 Features
 
-Highlight the key features of your app.
-✅ Ask health questions
-✅ Streamlit interface
-✅ Uses TinyLlama # smaller for CPU
-✅ Concise answers
+key features of  app:
+
+           ✅ Ask health questions
+           ✅ Streamlit interface
+           ✅ Uses TinyLlama # smaller for CPU
+           ✅ Concise answers
 
 1.Installation & Setup Instructions:
 
