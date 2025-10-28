@@ -15,18 +15,21 @@ Highlight the key features of your app.
 
                Run Streamlit app
 
-2. Usage Example
-    the communication between user and ai
-**User:** What are the symptoms of dehydration?  
-**AI:** Common symptoms include dizziness, dry mouth, and reduced urine output.
+2. Usage Example:
+
+    The communication between user and ai
+   **User:** What are the symptoms of dehydration?  
+   **AI:** Common symptoms include dizziness, dry mouth, and reduced urine output.
 
 3.Project Structure:
+
               AI-Health-Assistant/
                            │
                            ├── model.py
                            ├── api.py
 
 4.Technologies Used:
+
        Python 🐍
 
       Streamlit 🌐
@@ -36,6 +39,7 @@ Highlight the key features of your app.
        PyTorch ⚙️
 
 5.Disclaimer:
+
           ⚠️ This project is for educational purposes only and not a substitute for professional medical advice.
 
 7.License:
@@ -44,4 +48,5 @@ Highlight the key features of your app.
 
 
 8. Acknowledgments:
+   
             Built using Hugging Face Transforms and Streamlit.
