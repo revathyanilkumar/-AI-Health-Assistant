@@ -8,66 +8,40 @@ Highlight the key features of your app.
 ✅ Uses Mistral model
 ✅ Concise answers
 
-1.Installation & Setup Instructions
-Create virtual environment
+1.Installation & Setup Instructions:
+               Create virtual environment
+ 
+               Install requirements
 
-Install requirements
-
-Run Streamlit app
+               Run Streamlit app
 
 2. Usage Example
-
-Show one or two example questions and answers — this helps people quickly understand the app.
-Example:
-
+    the communication between user and ai
 **User:** What are the symptoms of dehydration?  
 **AI:** Common symptoms include dizziness, dry mouth, and reduced urine output.
 
-3.Project Structure
+3.Project Structure:
+              AI-Health-Assistant/
+                           │
+                           ├── model.py
+                           ├── api.py
 
-Provide a simple directory tree showing the main files and folders.
+4.Technologies Used:
+       Python 🐍
 
-AI-Health-Assistant/
-│
-├── model.py
-├── api.py
+      Streamlit 🌐
 
-4.Technologies Used
+      Hugging Face Transformers 🤗
 
-List all main tools and libraries:
+       PyTorch ⚙️
 
-Python 🐍
+5.Disclaimer:
+          ⚠️ This project is for educational purposes only and not a substitute for professional medical advice.
 
-Streamlit 🌐
+7.License:
 
-Hugging Face Transformers 🤗
-
-PyTorch ⚙️
-
-5.Disclaimer
-
-You must include this for health-related apps:
-
-⚠️ This project is for educational purposes only and not a substitute for professional medical advice.
-
-6. Author Section
-
-Add your details (name, short bio, and social links). Example:
-
-👩‍💻 **Revathy Anil Kumar**  
-MCA Graduate | Data & AI Enthusiast  
-📍 Kerala, India  
-
-7.License
-
-If it’s public, add a simple license note:
-
-📄 Licensed under the MIT License — free to use and modify.
+           📄 Licensed under the MIT License — free to use and modify.
 
 
-8. Acknowledgments
-
-Credit tools or inspirations:
-
-Built using Hugging Face Transformers
- and Streamlit.
+8. Acknowledgments:
+            Built using Hugging Face Transforms and Streamlit.
