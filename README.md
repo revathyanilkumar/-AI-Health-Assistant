@@ -9,12 +9,6 @@ Highlight the key features of your app.
 ✅ Concise answers
 
 1.Installation & Setup Instructions
-
-Tell the user how to run your app on their machine.
-Include:
-
-Steps to clone repo
-
 Create virtual environment
 
 Install requirements
@@ -37,6 +31,7 @@ AI-Health-Assistant/
 │
 ├── model.py
 ├── api.py
+
 4.Technologies Used
 
 List all main tools and libraries:
@@ -62,6 +57,7 @@ Add your details (name, short bio, and social links). Example:
 👩‍💻 **Revathy Anil Kumar**  
 MCA Graduate | Data & AI Enthusiast  
 📍 Kerala, India  
+
 7.License
 
 If it’s public, add a simple license note:
