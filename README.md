@@ -9,6 +9,7 @@ Highlight the key features of your app.
 ✅ Concise answers
 
 1.Installation & Setup Instructions:
+
                Create virtual environment
  
                Install requirements
@@ -18,8 +19,9 @@ Highlight the key features of your app.
 2. Usage Example:
 
     The communication between user and ai
-   **User:** What are the symptoms of dehydration?  
-   **AI:** Common symptoms include dizziness, dry mouth, and reduced urine output.
+
+                **User:** What are the symptoms of dehydration?  
+                **AI:** Common symptoms include dizziness, dry mouth, and reduced urine output.
 
 3.Project Structure:
 
@@ -30,7 +32,7 @@ Highlight the key features of your app.
 
 4.Technologies Used:
 
-       Python 🐍
+      Python 🐍
 
       Streamlit 🌐
 
