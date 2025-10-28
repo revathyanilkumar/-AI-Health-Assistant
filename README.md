@@ -5,7 +5,7 @@ Features
 Highlight the key features of your app.
 ✅ Ask health questions
 ✅ Streamlit interface
-✅ Uses Mistral model
+✅ Uses TinyLlama # smaller for CPU
 ✅ Concise answers
 
 1.Installation & Setup Instructions:
